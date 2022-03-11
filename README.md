@@ -7,11 +7,11 @@
 ###### h6
 
 <!-- Bold -->
-**Bold**
+**Bold** <br>
 __Bold 2__
 
 <!-- İtalic -->
-*İtalic*
+*İtalic* <br>
 _İtalic_
 
 <!-- StireThrough -->
@@ -21,4 +21,9 @@ _İtalic_
 >"Yattığın yerden para kazanmıyosan, zengindeğilsindir."
 
 <!-- Links -->
-[Twitter](https://twitter.com/LuWe_exe)
+[Link Twitter](https://twitter.com/LuWe_exe) <br>
+[Def Twitter]
+
+
+<!-- Def -->
+[Def Twitter]: https://twitter.com/LuWe_exe
