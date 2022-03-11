@@ -118,7 +118,7 @@
 
 ## 📊 Github Stats
 
-<details open>
+<details close>
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
 
@@ -128,7 +128,7 @@
 
 ----
 
-<details open>
+<details close>
 <summary><b>💻 GitHub Profile Stats</b></summary>
 <br>
 
