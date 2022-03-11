@@ -59,7 +59,9 @@ _İtalic_
 :ok_hand: Eyytii :ok_hand:
 
 <!-- Code block -->
-python
+<br><br>
+
+## Python
 
     print(Hello World)
 
