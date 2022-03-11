@@ -58,6 +58,11 @@ _İtalic_
 <!-- Emoji -->
 :ok_hand: Eyytii :ok_hand:
 
+<!-- Code block -->
+python
+
+    print(Hello World)
+
 
 
 
