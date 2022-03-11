@@ -14,14 +14,6 @@
 
 <br>
 
-<details open>
-<summary><h2>🔥 Streak Stats</h2></summary>
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eyytii&theme=bear&date_format=j%2Fn%5B%2FY%5D)]
-
-</details>
-
 <br>
 <br>
 
@@ -126,11 +118,21 @@
 
 ## 📊 Github Stats
 
+<details open>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eyytii&theme=bear&date_format=j%2Fn%5B%2FY%5D)]
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
+</details>
+
+----
+
+<details open>
+<summary><b>💻 GitHub Profile Stats</b></summary>
+<br>
+
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="eyytii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eyytii&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
@@ -138,6 +140,8 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+
+</details>
 
 ----
 
