@@ -1,14 +1,24 @@
-### Hi there 👋
+<!-- Headers -->
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
 
-**eyytii/eyytii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Bold -->
+**Bold**
+__Bold 2__
 
-Here are some ideas to get you started:
+<!-- İtalic -->
+*İtalic*
+_İtalic_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- StireThrough -->
+~~Üstü çizili~~
+
+<!-- Quoting -->
+>"Yattığın yerden para kazanmıyosan, zengindeğilsindir."
+
+<!-- Links -->
+[Twitter](https://twitter.com/LuWe_exe)
