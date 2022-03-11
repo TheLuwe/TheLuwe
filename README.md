@@ -16,7 +16,13 @@
 
 ## 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eyytii&theme=bear&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+<details open>
 <summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details>
+
 <br>
 <br>
 
