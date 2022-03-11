@@ -19,7 +19,7 @@ _İtalic_
 ~~Üstü çizili~~
 
 <!-- Quoting -->
->"Yattığın yerden para kazanmıyosan, zengindeğilsindir."
+>"Yattığın yerden para kazanmıyosan, zengin değilsindir."
 
 <!-- Links -->
 [Link Github](https://github.com/eyytii) <br>
