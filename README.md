@@ -1,8 +1,10 @@
+<!-- ### Header ### -->
 <h1 align="center">Hi , I'm Enes Turan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+<!-- ### About Me ### -->
 ## :sassy_man:  About me
 - :school: I am a 12.th grade student at `Demirtaşpaşa` High School.
 - :trophy: I don't have any rewards yet
@@ -13,11 +15,11 @@
 - :nerd_face: Always `learning new things`
 
 <br>
-
 <br>
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<!-- ### Contact me ### -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contact me
 <p align="center">
 	<a href="mailto:enesturann2314@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/eyytii"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -25,8 +27,10 @@
 	<a href="https://www.instagram.com/enes_t_u_r_a_n/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
+<!-- ### My Skills ### -->
 ## 🛠️ My Skills
 
+<!-- ### Programming languages ### -->
 ### 👉 Programming languages
 
 <p align="center"> 
@@ -44,6 +48,7 @@
   </a>
 </p>
 
+<!-- ### Frontend Development ### -->
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
@@ -56,6 +61,7 @@
   </a> 
 </p>
 
+<!-- ### Software & Tools ### -->
  ### 👉 Software & Tools
  
 <p align="center">
@@ -166,4 +172,4 @@
 -----
 Credits: [eyytii](https://github.com/eyytii)
 
-Last Edited on: 10/02/2022
+Last Edited on: 11/03/2022
