@@ -45,7 +45,12 @@ _İtalic_
 * C
     * cc
 <br><br>
-- [x] Design
+- [x] Task 1
+    - [x] Task 1.1
+- [x] Task 2
+    - [x] Task 2.1
+- [x] Task 3
+    - [x] Task 3.1
 
 <!-- Def -->
 [Def-Twitter]: https://twitter.com/LuWe_exe
