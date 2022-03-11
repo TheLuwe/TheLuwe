@@ -23,7 +23,7 @@ _İtalic_
 
 <!-- Links -->
 [Link Github](https://github.com/eyytii) <br>
-[Def Twitter] <br>
+[Def Twitter][Def-Twitter] <br>
 <a href="https://www.reddit.com/user/EyyTii2314">HTML tag Reddit</a>
 
 <!-- Image -->
