@@ -145,17 +145,23 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/eyytii"><img alt="eyytii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eyytii&custom_title=eyytii's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<details close>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br>
 
+<a href="https://github.com/eyytii"><img alt="eyytii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eyytii&custom_title=eyytii's%20Contribution%20Graph&theme=react-dark" /></a>
 
-<br/>
+</details>
 
-## :trophy: Git profile Trophies
+----
+
+<details close>
+<summary><b>🏆 Git profile Trophies</b></summary>
+<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyytii&layout=compact&theme=algolia" alt="eyytii" /></a> </p>
+
+</details>
 
 -----
 Credits: [eyytii](https://github.com/eyytii)
