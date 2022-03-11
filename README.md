@@ -4,7 +4,7 @@
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
+- :school: I am a 12.th grade student at Demirtaşpaşa High School.
 - :trophy: `ACPC` Finalist 2021
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
