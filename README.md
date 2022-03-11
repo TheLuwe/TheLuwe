@@ -21,9 +21,9 @@ _İtalic_
 >"Yattığın yerden para kazanmıyosan, zengindeğilsindir."
 
 <!-- Links -->
-[Link Twitter](https://twitter.com/LuWe_exe) <br>
-[Def Twitter]
-
+[Link Github](https://github.com/eyytii) <br>
+[Def Twitter] <br>
+<a url="https://www.reddit.com/user/EyyTii2314">HTML tag Reddit</a>
 
 <!-- Def -->
 [Def Twitter]: https://twitter.com/LuWe_exe
