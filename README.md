@@ -14,9 +14,6 @@
 
 <br>
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eyytii&theme=bear&date_format=j%2Fn%5B%2FY%5D)]
-
 <details open>
 <summary><h2>🔥 Streak Stats</h2></summary>
 <br>
