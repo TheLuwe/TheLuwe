@@ -17,7 +17,7 @@
 <br>
 <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/622049091400105990)
+[![Discord Presence](https://lanyard.cnrad.dev/api/622049091400105990)](https://discord.com/users/622049091400105990)
 
 <br>
 <br>
