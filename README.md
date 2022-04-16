@@ -17,6 +17,12 @@
 <br>
 <br>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:622049091400105990)
+
+<br>
+<br>
+<br>
+
 <!-- ### Contact me ### -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contact me
 <p align="center">
