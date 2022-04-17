@@ -19,8 +19,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/622049091400105990?bg=9740c9)](https://discord.com/users/622049091400105990)
 
-<iframe src="https://discord.com/widget?id=963824009353519136&theme=dark" width="175" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 <br>
 <br>
 <br>
