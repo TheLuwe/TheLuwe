@@ -53,7 +53,7 @@
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br>
 
-<a href="https://github.com/luwExe"><img alt="luwExe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=luwExe&custom_title=eyytii's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/luwExe"><img alt="luwExe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=luwExe&custom_title=luwExe's%20Contribution%20Graph&theme=react-dark" /></a>
 
 </details>
 
