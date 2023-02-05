@@ -6,7 +6,7 @@
 <!-- :school: I am a 12.th grade student at `Demirtaşpaşa` High School.-->
 - :trophy: I don't have any rewards yet
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I'm currently learning: `AWS` and `Django`.
+- :student: I'm currently learning: `AWS` and `React.js`.
 - :thinking: I'm currently open for: `internship` and `job offer`, this is [MY RESUME](#).
 - :nerd_face: Always `learning new things`
 
