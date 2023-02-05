@@ -26,7 +26,7 @@
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eyytii&theme=bear&date_format=j%2Fn%5B%2FY%5D)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luwExe&theme=bear&date_format=j%2Fn%5B%2FY%5D)]
 
 </details>
 
@@ -37,10 +37,10 @@
 <br>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="eyytii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eyytii&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="luwExe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luwExe&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyytii&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eyytii" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luwExe&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="luwExe" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -53,7 +53,7 @@
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br>
 
-<a href="https://github.com/eyytii"><img alt="eyytii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eyytii&custom_title=eyytii's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/luwExe"><img alt="luwExe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=luwExe&custom_title=eyytii's%20Contribution%20Graph&theme=react-dark" /></a>
 
 </details>
 
@@ -63,11 +63,11 @@
 <summary><b>🏆 Git profile Trophies</b></summary>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyytii&layout=compact&theme=algolia" alt="eyytii" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luwExe&layout=compact&theme=algolia" alt="luwExe" /></a> </p>
 
 </details>
 
 -----
-Credits: [eyytii](https://github.com/eyytii)
+Credits: [luwExe](https://github.com/luwExe)
 
 Last Edited on: 11/03/2022
