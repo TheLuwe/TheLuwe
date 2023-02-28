@@ -23,12 +23,12 @@
 ## 📊 Github Stats
 
 <details close>
-<summary><b>🔥 Streak Stats</b></summary>
+<!-- <summary><b>🔥 Streak Stats</b></summary>
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luwExe&theme=bear&date_format=j%2Fn%5B%2FY%5D)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luwExe&theme=bear&date_format=j%2Fn%5B%2FY%5D)
 
-</details>
+</details> -->
 
 ----
 
