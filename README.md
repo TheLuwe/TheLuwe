@@ -14,7 +14,7 @@
 <br>
 <br>
 
-[![Discord Presence](https://linkcord.js.org/api/v3/widget/{your_id}?type=spotify_mini&theme=dark](https://discord.com/users/622049091400105990)
+[![Discord Presence](https://linkcord.js.org/api/v3/widget/622049091400105990?type=spotify_mini&theme=dark](https://discord.com/users/622049091400105990)
 
 <br>
 <br>
