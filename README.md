@@ -14,7 +14,13 @@
 <br>
 <br>
 
-[![Discord Presence](https://linkcord.js.org/api/v3/widget/622049091400105990?type=spotify_mini&theme=dark](https://discord.com/users/622049091400105990)
+<iframe
+    src="https://linkcord.js.org/api/v3/widget/622049091400105990?type=spotify_mini"
+    width="300"
+    height="60"
+    allowtransparency="true"
+    frameborder="0"
+/>
 
 <br>
 <br>
