@@ -14,13 +14,7 @@
 <br>
 <br>
 
-<iframe
-    src="https://linkcord.js.org/api/v3/widget/622049091400105990?type=spotify_mini"
-    width="300"
-    height="60"
-    allowtransparency="true"
-    frameborder="0"
-/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/622049091400105990?)](https://discord.com/users/622049091400105990)
 
 <br>
 <br>
